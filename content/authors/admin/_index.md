@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:blusch@anl.gov".
+  link: "mailto:blusch@anl.gov"  # For a direct email link, use "mailto:blusch@anl.gov".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BethanyLusch
