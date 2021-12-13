@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -19,20 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "National Physical Science Consortium"
-  organization_url = ""
-  title = "Six-Year Graduate Fellowship"
+  organization = "National Physical Science Consortium (now GFSD)"
+  organization_url = "https://stemfellowships.org"
+  title = "NPSC Fellow"
   url = ""
   certificate_url = ""
   date_start = "2010-08-01"
   date_end = "2016-05-01"
-  description = ""
+  description = "Six-Year Graduate Fellowship"
 
 [[item]]
-  organization = "NSF-SUMR"
+  organization = "University of Notre Dame Mathematics Department"
   organization_url = ""
   title = "NSF-SUMR Scholarship"
-  url = ""
+  url = "https://math.nd.edu/undergraduate/honors-math-sumr/"
   certificate_url = ""
   date_start = "2007-08-01"
   date_end = "2010-06-01"
