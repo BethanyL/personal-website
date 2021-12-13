@@ -26,7 +26,7 @@ summary: ""
 
 tags: [model discovery, dynamical systems, machine learning, deep learning]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
