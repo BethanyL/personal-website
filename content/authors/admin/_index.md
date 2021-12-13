@@ -15,10 +15,10 @@ role: Assistant Computer Scientist
 # Organizations/Affiliations
 organizations:
 - name: Argonne National Laboratory
-  url: "hcf.anl.gov/about/people/bethany-luschttps://www.al"
+  url: "https://www.alcf.anl.gov/about/people/bethany-lusch"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am an assistant computer scientist at Argonne National Lab. My research interests include scientific machine learning and supercomputing.
 
 interests:
 - Scientific Machine Learning
@@ -64,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "blusch@anl.gov"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,6 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Bethany Lusch is an Assistant Computer Scientist in the data science group at the Argonne Leadership Computing Facility at Argonne National Lab. Her research expertise includes developing methods and tools to integrate AI with science, especially for dynamical systems and PDE-based simulations. Her recent work includes developing machine-learning emulators to replace expensive parts of simulations, such as computational fluid dynamics simulations of engines and climate simulations. She is also working on methods that incorporate domain knowledge in machine learning, representation learning, and using machine learning to analyze supercomputer logs. She holds a PhD and MS in applied mathematics from the University of Washington and a BS in mathematics from the University of Notre Dame.
